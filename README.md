@@ -155,8 +155,3 @@ crawl or index the submitted URLs.
 -   Review the URL list before confirming submission.
 -   URL submission is a notification to IndexNow; it does not guarantee
     indexing or ranking improvements.
-
-## License
-
-No license is specified in this repository. Add a license file if you
-intend to distribute the project and want to define reuse terms.
